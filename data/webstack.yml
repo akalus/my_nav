@@ -37,7 +37,7 @@
           url: https://runwayml.com/
           description: AI 视频生成与剪辑工具。
         - title: ElevenLabs
-          logo: elevenlabs.png
+          logo: https://www.elevenlabs.io/
           url: https://www.elevenlabs.io/
           description: 高质量 AI 语音合成平台。
         - title: Descript
