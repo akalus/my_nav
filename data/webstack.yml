@@ -18,7 +18,7 @@
     - term: 文本与写作
       links:
         - title: ChatGPT
-          logo: chat.openai.com.png
+          logo: openai.com.png
           url: https://chat.openai.com/
           description: OpenAI 出品的强大 AI 聊天助手。
         - title: Claude
@@ -58,19 +58,19 @@
   icon: far fa-star
   links:
     - title: 语雀
-      logo: www.yuque.com.png
+      logo: yuque.com.png
       url: https://www.yuque.com/
       description: 专业的云端知识库。
     - title: QQ 邮箱
-      logo: mail.qq.com.png
+      logo: qq.com.png
       url: http://mail.qq.com/
       description: 腾讯 QQ 邮箱。
     - title: 开源中国
-      logo: www.oschina.net.png
+      logo: oschina.net.png
       url: https://www.oschina.net/
       description: 中文开源技术交流社区。
     - title: 公众号平台
-      logo: mp.weixin.qq.com.png
+      logo: weixin.qq.com.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
     - title: GitHub
@@ -78,19 +78,19 @@
       url: https://github.com/
       description: GitHub 开源社区。
     - title: 搜狗微信
-      logo: weixin.sogou.com.png
+      logo: sogou.com.png
       url: https://weixin.sogou.com/
       description: 搜狗微信搜索，一搜即达。
     - title: 知乎
-      logo: www.zhihu.com.png
+      logo: zhihu.com.png
       url: https://www.zhihu.com/
       description: 知乎社区。
     - title: V2EX
-      logo: www.v2ex.com.png
+      logo: v2ex.com.png
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
     - title: 关注我们
-      logo: www.bioitee.com.png
+      logo: bioitee.com.png
       url: https://www.bioitee.com
       qrcode: qrcode.jpg
       description: 微信公众号：BioIT 爱好者！
@@ -101,7 +101,7 @@
     - term: 生物信息
       links:
         - title: NCBI
-          logo: www.ncbi.nlm.nih.gov.png
+          logo: nih.gov.png
           url: https://www.ncbi.nlm.nih.gov/
           description: National Center for Biotechnology Information.
         - title: Bioconda
@@ -117,55 +117,55 @@
           url: https://galaxyproject.org/
           description: Galaxy Community Hub.
         - title: R Project
-          logo: www.r-project.org.png
+          logo: r-project.org.png
           url: https://www.r-project.org/
           description: https://www.r-project.org
         - title: Bioconductor
-          logo: www.bioconductor.org.png
+          logo: bioconductor.org.png
           url: http://www.bioconductor.org/
           description: http://www.bioconductor.org
     - term: 云服务器
       links:
         - title: 阿里云
-          logo: www.aliyun.com.png
+          logo: aliyun.com.png
           url: https://www.aliyun.com/
           description: 上云就上阿里云。
         - title: 腾讯云
-          logo: cloud.tencent.com.png
+          logo: tencent.com.png
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
         - title: 华为云
-          logo: www.huaweicloud.com.png
+          logo: huaweicloud.com.png
           url: https://www.huaweicloud.com/
           description: 提供云计算服务+智能，见未来-华为云。
         - title: 云筏科技
-          logo: www.cloudraft.cn.png
+          logo: cloudraft.cn.png
           url: https://www.cloudraft.cn/
           description: 你的生信科研好选择。
         - title: 极云普惠云电脑
-          logo: www.ji-cloud.cn.png
+          logo: ji-cloud.cn.png
           url: https://www.ji-cloud.cn/
           description: 云电脑-云游戏-手机变电脑软件。
         - title: 青椒云
-          logo: www.qingjiaocloud.com.png
+          logo: qingjiaocloud.com.png
           url: https://www.qingjiaocloud.com/
           description: 云桌面,一站式云电脑服务平台。
     - term: 办公学习
       links:
         - title: 有道词典
-          logo: www.youdao.com.png
+          logo: youdao.com.png
           url: https://www.youdao.com/
           description: 免费，即时的多语种在线翻译。
         - title: 有道翻译
-          logo: fanyi.youdao.com.png
+          logo: youdao.com.png
           url: http://fanyi.youdao.com/
           description: 有道翻译。
         - title: 谷歌翻译
-          logo: translate.google.cn.png
+          logo: google.cn.png
           url: https://translate.google.cn/
           description: 谷歌翻译。
         - title: ProcessOn
-          logo: www.processon.com.png
+          logo: processon.com.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
 
@@ -175,37 +175,37 @@
     - term: 影音视频
       links:
         - title: 腾讯视频
-          logo: v.qq.com.png
+          logo: qq.com.png
           url: http://v.qq.com/
           description: 腾讯视频，海量视频在线观看。
         - title: 优酷
-          logo: www.youku.com.png
+          logo: youku.com.png
           url: http://www.youku.com/
           description: 优酷 - 这个世界很酷。
         - title: 爱奇艺
-          logo: www.iqiyi.com.png
+          logo: iqiyi.com.png
           url: https://www.iqiyi.com/
           description: 爱奇艺在线视频。
         - title: 哔哩哔哩
-          logo: www.bilibili.com.png
+          logo: bilibili.com.png
           url: https://www.bilibili.com/
           description: Bilibili 视频弹幕网站。
         - title: QQ 音乐
-          logo: y.qq.com.png
+          logo: qq.com.png
           url: https://y.qq.com/
           description: QQ 音乐，在线听歌。
         - title: 网易云音乐
-          logo: music.163.com.png
+          logo: 163.com.png
           url: https://music.163.com/
           description: 163 网易云音乐。
     - term: 游戏竞技
       links:
         - title: 百度贴吧
-          logo: tieba.baidu.com.png
+          logo: baidu.com.png
           url: https://tieba.baidu.com/index.html
           description: 百度贴吧。
         - title: 台服战地
-          logo: ava.mangot5.com.png
+          logo: mangot5.com.png
           url: https://ava.mangot5.com/ava/index
           description: 台服 AVA 战地之王。
 
@@ -215,29 +215,29 @@
     - term: 网盘资源
       links:
         - title: 百度网盘
-          logo: pan.baidu.com.png
+          logo: baidu.com.png
           url: http://pan.baidu.com/
           description: https://pan.baidu.com/.
         - title: 阿里云盘
-          logo: www.aliyundrive.com.png
+          logo: aliyundrive.com.png
           url: https://www.aliyundrive.com/
           description: 阿里云盘，你的数字世界。
         - title: 天翼云盘
-          logo: cloud.189.cn.png
+          logo: 189.cn.png
           url: https://cloud.189.cn/
           description: 家庭云|网盘|文件备份|资源分享。
         - title: 坚果云
-          logo: www.jianguoyun.com.png
+          logo: jianguoyun.com.png
           url: https://www.jianguoyun.com/
           description: 坚果云官网。
     - term: 图标素材
       links:
         - title: Iconfinder
-          logo: www.iconfinder.com.png
+          logo: iconfinder.com.png
           url: https://www.iconfinder.com
           description: 2,100,000+ free and premium vector icons.
         - title: iconfont
-          logo: www.iconfont.cn.png
+          logo: iconfont.cn.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库。
         - title: iconmonstr
@@ -245,7 +245,7 @@
           url: https://iconmonstr.com/
           description: Free simple icons for your next project.
         - title: Icon Archive
-          logo: www.iconarchive.com.png
+          logo: iconarchive.com.png
           url: http://www.iconarchive.com/
           description: Search 590,912 free icons.
         - title: FindIcons
@@ -257,11 +257,11 @@
           url: https://icomoon.io/app/
           description: Icon Font, SVG, PDF &amp; PNG Generator.
         - title: easyicon
-          logo: www.easyicon.net.png
+          logo: easyicon.net.png
           url: http://www.easyicon.net/
           description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
         - title: flaticon
-          logo: www.flaticon.com.png
+          logo: flaticon.com.png
           url: https://www.flaticon.com/
           description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
         - title: UICloud
@@ -283,11 +283,11 @@
         - title: Simpleline Icons
           logo: simplelineicons.com.png
           url: http://simplelineicons.com/
-          description: Simple line Icons pack.
+          description: Simple line Ions pack.
     - term: 图标设计
       links:
         - title: Iconsfeed
-          logo: www.iconsfeed.com.png
+          logo: iconsfeed.com.png
           url: http://www.iconsfeed.com/
           description: iOS icons gallery.
         - title: iOS Icon Gallery
@@ -305,7 +305,7 @@
     - term: 平面素材
       links:
         - title: freepik
-          logo: www.freepik.com.png
+          logo: freepik.com.png
           url: https://www.freepik.com/
           description: More than a million free vectors, PSD, photos and free icons.
         - title: wallhalla
@@ -321,7 +321,7 @@
           url: https://medialoot.com/
           description: Free &amp; Premium Design Resources &mdash; Medialoot.
         - title: 千图网
-          logo: www.58pic.com.png
+          logo: 58pic.com.png
           url: http://www.58pic.com/
           description: 专注免费设计素材下载的网站.
         - title: 千库网
@@ -329,7 +329,7 @@
           url: http://588ku.com/
           description: 免费 png 图片背景素材下载。
         - title: 我图网
-          logo: www.ooopic.com.png
+          logo: ooopic.com.png
           url: http://www.ooopic.com/
           description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
         - title: 90 设计
@@ -337,15 +337,15 @@
           url: http://90sheji.com/
           description: 电商设计（淘宝美工）千图免费淘宝素材库。
         - title: 昵图网
-          logo: www.nipic.com.png
+          logo: nipic.com.png
           url: http://www.nipic.com/
           description: 原创素材共享平台。
         - title: 懒人图库
-          logo: www.lanrentuku.com.png
+          logo: lanrentuku.com.png
           url: http://www.lanrentuku.com/
           description: 懒人图库专注于提供网页素材下载。
         - title: 素材搜索
-          logo: so.ui001.com.png
+          logo: ui001.com.png
           url: http://so.ui001.com/
           description: 设计素材搜索聚合。
         - title: PS 饭团网
@@ -353,14 +353,14 @@
           url: http://psefan.com/
           description: 不一样的设计素材库！让自己的设计与众不同！
         - title: 素材中国
-          logo: www.sccnn.com.png
+          logo: sccnn.com.png
           url: http://www.sccnn.com/
           description: 免费素材共享平台。
     - term: 字体资源
       links:
         - title: Google Font
           url: https://fonts.google.com/
-          logo: fonts.google.com.png
+          logo: google.com.png
           description: Making the web more beautiful, fast, and open through great typography.
         - title: Typekit
           url: https://typekit.com/
@@ -368,7 +368,7 @@
           description: Quality fonts from the world's best foundries.
         - title: 方正字库
           url: http://www.foundertype.com/
-          logo: www.foundertype.com.png
+          logo: foundertype.com.png
           description: 方正字库官方网站。
         - title: 字体传奇网
           url: http://ziticq.com/
@@ -380,15 +380,15 @@
           description: 优质字体免费下载站。
         - title: Fontsquirrel
           url: https://www.fontsquirrel.com/
-          logo: www.fontsquirrel.com.png
+          logo: fontsquirrel.com.png
           description: FREE fonts for graphic designers.
         - title: Urban Fonts
           url: https://www.urbanfonts.com/
-          logo: www.urbanfonts.com.png
+          logo: urbanfonts.com.png
           description: Download Free Fonts and Free Dingbats.
         - title: Lost Type
           url: http://www.losttype.com/
-          logo: www.losttype.com.png
+          logo: losttype.com.png
           description: Lost Type is a Collaborative Digital Type Foundry.
         - title: FONTS2U
           url: https://fonts2u.com/
@@ -396,7 +396,7 @@
           description: Download free fonts for Windows and Macintosh.
         - title: Fontex
           url: http://www.fontex.org/
-          logo: www.fontex.org.png
+          logo: fontex.org.png
           description: Free Fonts to Download + Premium Typefaces.
         - title: FontM
           url: http://fontm.com/
@@ -404,19 +404,19 @@
           description: Free Fonts
         - title: My Fonts
           url: http://www.myfonts.com/
-          logo: www.myfonts.com.png
+          logo: myfonts.com.png
           description: Fonts for Print, Products & Screens.
         - title: Da Font
           url: https://www.dafont.com/
-          logo: www.dafont.com.png
+          logo: dafont.com.png
           description: Archive of freely downloadable fonts.
         - title: OnlineWebFonts
           url: https://www.onlinewebfonts.com/
-          logo: www.onlinewebfonts.com.png
+          logo: onlinewebfonts.com.png
           description: WEB Free Fonts for Windows and Mac / Font free Download.
         - title: Abstract Fonts
           url: http://www.abstractfonts.com/
-          logo: www.abstractfonts.com.png
+          logo: abstractfonts.com.png
           description: Abstract Fonts (13,866 free fonts).
 
 - taxonomy: 开发设计
@@ -426,31 +426,31 @@
       links:
         - title: photoshop
           url: https://www.adobe.com/cn/products/photoshop.html
-          logo: www.adobe.com.png
+          logo: adobe.com.png
           description: Photoshop不需要解释
         - title: Affinity Designer
           url: https://affinity.serif.com/
-          logo: affinity.serif.com.png
+          logo: serif.com.png
           description: 专业创意软件
         - title: Illustrator
           url: https://www.adobe.com/cn/products/illustrator/
-          logo: www.adobe.com.png
+          logo: adobe.com.png
           description: 矢量图形和插图。
         - title: indesign
           url: http://www.adobe.com/cn/products/indesign.html
-          logo: www.adobe.com.png
+          logo: adobe.com.png
           description: 页面设计、布局和出版。
         - title: cinema-4d
           url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: www.maxon.net.png
+          logo: maxon.net.png
           description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
         - title: 3ds-max
           url: https://www.autodesk.com/products/3ds-max/overview
-          logo: www.autodesk.com.png
+          logo: autodesk.com.png
           description: 3D modeling, animation, and rendering software
         - title: Blender
           url: https://www.blender.org/
-          logo: www.blender.org.png
+          logo: blender.org.png
           description: Blender is the free and open source 3D creation suite.
     - term: 界面设计
       links:
@@ -460,11 +460,11 @@
           description: The digital design toolkit
         - title: Adobe XD
           url: http://www.adobe.com/products/xd.html
-          logo: www.adobe.com.png
+          logo: adobe.com.png
           description: Introducing Adobe XD. Design. Prototype. Experience.
         - title: invisionapp
           url: https://www.invisionapp.com/
-          logo: www.invisionapp.com.png
+          logo: invisionapp.com.png
           description: Powerful design prototyping tools
         - title: marvelapp
           url: https://marvelapp.com/
@@ -472,11 +472,11 @@
           description: Simple design, prototyping and collaboration
         - title: Muse CC
           url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: creative.adobe.com.png
+          logo: adobe.com.png
           description: 无需利用编码即可进行网站设计。
         - title: figma
           url: https://www.figma.com/
-          logo: www.figma.com.png
+          logo: figma.com.png
           description: Design, prototype, and gather feedback all in one place with Figma.
     - term: 在线配色
       links:
@@ -494,7 +494,7 @@
           description: Curated gradients for designers and developers.
         - title: Coolest
           url: https://webkul.github.io/coolhue/
-          logo: webkul.github.io.png
+          logo: github.com.png
           description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
         - title: webgradients
           url: https://webgradients.com/
@@ -502,11 +502,11 @@
           description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
         - title: grabient
           url: https://www.grabient.com/
-          logo: www.grabient.com.png
+          logo: grabient.com.png
           description: 2017 Grabient by unfold.
         - title: thedayscolor
           url: http://www.thedayscolor.com/
-          logo: www.thedayscolor.com.png
+          logo: thedayscolor.com.png
           description: The daily color digest
         - title: flatuicolors
           url: http://flatuicolors.com/
@@ -518,15 +518,15 @@
           description: The super fast color schemes generator!
         - title: colorhunt
           url: http://www.colorhunt.co/
-          logo: www.colorhunt.co.png
+          logo: colorhunt.co.png
           description: Beautiful Color Palettes.
         - title: Adobe Color CC
           url: https://color.adobe.com/zh/create/color-wheel
-          logo: color.adobe.com.png
+          logo: adobe.com.png
           description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
         - title: flatuicolorpicker
           url: http://www.flatuicolorpicker.com/
-          logo: www.flatuicolorpicker.com.png
+          logo: flatuicolorpicker.com.png
           description: Best Flat Colors For UI Design.
         - title: trianglify
           url: http://qrohlf.com/trianglify-generator/
@@ -538,7 +538,7 @@
           description: Beautiful colors and designs to your inbox every week.
         - title: vanschneider
           url: http://www.vanschneider.com/colors
-          logo: www.vanschneider.com.png
+          logo: vanschneider.com.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
     - term: 在线工具
       links:
@@ -556,7 +556,7 @@
           description: simple online GIF maker and toolset for basic animated GIF editing.
         - title: Android 9 patch
           url: http://inloop.github.io/shadow4android/
-          logo: inloop.github.io.png
+          logo: github.com.png
           description: Android 9-patch shadow generator fully customizable shadows.
         - title: screen sizes
           url: http://screensiz.es/
@@ -564,18 +564,18 @@
           description: Viewport Sizes and Pixel Densities for Popular Devices.
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
-          logo: jakearchibald.github.io.png
+          logo: github.com.png
           description: SVG 在线压缩平台。
         - title: 稿定抠图
           url: https://www.gaoding.com
-          logo: www.gaoding.com.png
+          logo: gaoding.com.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
 
     - term: 谷歌插件
       links:
         - title: wappalyzer
           url: https://www.wappalyzer.com/
-          logo: www.wappalyzer.com.png
+          logo: wappalyzer.com.png
           description: Identify technology on websites.
         - title: Panda
           url: http://usepanda.com/
@@ -605,33 +605,33 @@
       links:
         - title: 微信读书
           url: https://weread.qq.com/
-          logo: weread.qq.com.png
+          logo: qq.com.png
           description: 微信读书电脑版。
         - title: 书栈网
           url: https://www.bookstack.cn/
-          logo: www.bookstack.cn.png
+          logo: bookstack.cn.png
           description: IT 互联网开源编程书籍免费阅读与下载。
     - term: 博客论坛
       links:
         - title: Inoreader
           url: https://www.inoreader.com/
-          logo: www.inoreader.com.png
+          logo: inoreader.com.png
           description: 重新掌控你的新闻订阅源。
         - title: Hacker News
           url: https://news.ycombinator.com/
-          logo: news.ycombinator.com.png
+          logo: ycombinator.com.png
           description: 一家关于计算机黑客和创业公司的社会化新闻网站。
         - title: 经管之家
           url: https://bbs.pinggu.org/
-          logo: bbs.pinggu.org.png
+          logo: pinggu.org.png
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
         - title: 阮一峰的网络日志
           url: http://www.ruanyifeng.com/blog/
-          logo: www.ruanyifeng.com.png
+          logo: ruanyifeng.com.png
           description: 阮一峰，科技爱好者周刊。
         - title: 酷壳
           url: https://www.coolshell.cn/
-          logo: www.coolshell.cn.png
+          logo: coolshell.cn.png
           description: 酷 壳 – CoolShell。
     - term: 设计规范
       links:
@@ -649,7 +649,7 @@
           description: Introduction - Material Design.
         - title: Human Interface Guidelines
           url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: developer.apple.com.png
+          logo: apple.com.png
           description: Human Interface Guidelines iOS.
         - title: Photoshop Etiquette
           url: http://viggoz.com/photoshopetiquette/
@@ -659,7 +659,7 @@
       links:
         - title: Photoshop Lady
           url: http://www.photoshoplady.com/
-          logo: www.photoshoplady.com.png
+          logo: photoshoplady.com.png
           description: Your Favourite Photoshop Tutorials in One Place.
         - title: doyoudo
           url: http://doyoudo.com/
@@ -667,9 +667,9 @@
           description: 创意设计软件学习平台。
         - title: 没位道
           url: http://www.c945.com/web-ui-tutorial/
-          logo: www.c945.com.png
+          logo: c945.com.png
           description: WEB UI免费视频公开课。
         - title: 慕课网
           url: https://www.imooc.com/
-          logo: www.imooc.com.png
+          logo: imooc.com.png
           description: 程序员的梦工厂（有UI课程）。
