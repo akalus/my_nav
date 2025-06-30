@@ -1,12 +1,14 @@
 baseURL               = "https://nav.ziyuan.fun/"
 languageCode          = "zh-CN"
-title                 = "网址导航"
+title                 = "嘎嘎导航"
 theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
 publishDir            = "public"				# 站点静态文件保存目录
 
+[minNav]
+value = "1"
 
 [params]
     author        = "shenweiyan"
