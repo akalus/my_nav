@@ -1,7 +1,7 @@
 (function ($) {
   $(document).ready(function () {
     // 侧栏菜单初始状态设置
-    theme.minNav = "0"; // 强制侧边栏默认展开
+    theme.minNav = "1"; // 强制侧边栏默认展开
     if (theme.minNav != "1") trigger_resizable(true);
     // 主题状态
     switch_mode();
