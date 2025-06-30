@@ -50,4 +50,4 @@ value = "1"
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：xihuaxiaoge@outlook.com <br/>&copy; 2025 - {year} [豫ICP备2025114005号-1](http://beian.miit.gov.cn/)<br/>'
+    copyright = '本站旨在让生活更简单。&copy; 2025 - {year} [豫ICP备2025114005号-1](http://beian.miit.gov.cn/)<br/>'
